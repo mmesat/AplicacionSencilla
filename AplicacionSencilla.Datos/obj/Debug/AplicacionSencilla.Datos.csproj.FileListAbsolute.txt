@@ -1,0 +1,26 @@
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.Datos.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.Datos.pdb
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.Entidades.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.HerramientasComunes.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\Dapper.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.Entidades.pdb
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.HerramientasComunes.pdb
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\Dapper.xml
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\obj\Debug\AplicacionSencilla.Datos.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\obj\Debug\AplicacionSencilla.Datos.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\obj\Debug\AplicacionSencilla.Datos.csproj.CopyComplete
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\obj\Debug\AplicacionSencilla.Datos.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Datos\obj\Debug\AplicacionSencilla.Datos.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.Datos.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.Datos.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.Entidades.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.HerramientasComunes.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\Dapper.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.Entidades.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\AplicacionSencilla.HerramientasComunes.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\bin\Debug\Dapper.xml
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\obj\Debug\AplicacionSencilla.Datos.csprojAssemblyReference.cache
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\obj\Debug\AplicacionSencilla.Datos.csproj.CoreCompileInputs.cache
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\obj\Debug\AplicacionSencilla.Datos.csproj.CopyComplete
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\obj\Debug\AplicacionSencilla.Datos.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Datos\obj\Debug\AplicacionSencilla.Datos.pdb

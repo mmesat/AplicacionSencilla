@@ -1,0 +1,11 @@
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.HerramientasComunes\bin\Debug\AplicacionSencilla.HerramientasComunes.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.HerramientasComunes\bin\Debug\AplicacionSencilla.HerramientasComunes.pdb
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.HerramientasComunes\obj\Debug\AplicacionSencilla.HerramientasComunes.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.HerramientasComunes\obj\Debug\AplicacionSencilla.HerramientasComunes.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.HerramientasComunes\obj\Debug\AplicacionSencilla.HerramientasComunes.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.HerramientasComunes\obj\Debug\AplicacionSencilla.HerramientasComunes.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.HerramientasComunes\bin\Debug\AplicacionSencilla.HerramientasComunes.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.HerramientasComunes\bin\Debug\AplicacionSencilla.HerramientasComunes.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.HerramientasComunes\obj\Debug\AplicacionSencilla.HerramientasComunes.csproj.CoreCompileInputs.cache
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.HerramientasComunes\obj\Debug\AplicacionSencilla.HerramientasComunes.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.HerramientasComunes\obj\Debug\AplicacionSencilla.HerramientasComunes.pdb

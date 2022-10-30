@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7584b3f7-4926-417b-bfaf-a3b1dd392489" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51192/AplicacionSencillaServicio.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AplicacionSencillaServicio.disco" MetadataType="Disco" ID="caddec62-d312-4b85-96e2-46d3c106f8d2" SourceId="1" SourceUrl="http://localhost:51192/AplicacionSencillaServicio.svc?disco" />
+    <MetadataFile FileName="AplicacionSencillaServicio.xsd" MetadataType="Schema" ID="20966edf-1282-425d-89d2-cf18d945af4b" SourceId="1" SourceUrl="http://localhost:51192/AplicacionSencillaServicio.svc?xsd=xsd1" />
+    <MetadataFile FileName="AplicacionSencillaServicio1.xsd" MetadataType="Schema" ID="4c4835aa-0337-4121-8083-6c11da3ab2b8" SourceId="1" SourceUrl="http://localhost:51192/AplicacionSencillaServicio.svc?xsd=xsd0" />
+    <MetadataFile FileName="AplicacionSencillaServicio2.xsd" MetadataType="Schema" ID="c1c746ee-9002-4b0c-ab5a-513362b039d3" SourceId="1" SourceUrl="http://localhost:51192/AplicacionSencillaServicio.svc?xsd=xsd3" />
+    <MetadataFile FileName="AplicacionSencillaServicio3.xsd" MetadataType="Schema" ID="bc8acc0e-e020-4eb7-a416-539a0383ef5f" SourceId="1" SourceUrl="http://localhost:51192/AplicacionSencillaServicio.svc?xsd=xsd2" />
+    <MetadataFile FileName="AplicacionSencillaServicio.wsdl" MetadataType="Wsdl" ID="0c697385-303d-4c63-8b32-6be1371084e0" SourceId="1" SourceUrl="http://localhost:51192/AplicacionSencillaServicio.svc?wsdl" />
+    <MetadataFile FileName="AplicacionSencillaServicio4.xsd" MetadataType="Schema" ID="00189879-9024-4a64-abf2-fb354905a8a2" SourceId="1" SourceUrl="http://localhost:51192/AplicacionSencillaServicio.svc?xsd=xsd4" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

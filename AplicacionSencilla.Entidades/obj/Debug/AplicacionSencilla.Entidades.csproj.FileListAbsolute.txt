@@ -1,0 +1,12 @@
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Entidades\bin\Debug\AplicacionSencilla.Entidades.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Entidades\bin\Debug\AplicacionSencilla.Entidades.pdb
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Entidades\obj\Debug\AplicacionSencilla.Entidades.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Entidades\obj\Debug\AplicacionSencilla.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Entidades\obj\Debug\AplicacionSencilla.Entidades.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencilla.Entidades\obj\Debug\AplicacionSencilla.Entidades.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Entidades\bin\Debug\AplicacionSencilla.Entidades.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Entidades\bin\Debug\AplicacionSencilla.Entidades.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Entidades\obj\Debug\AplicacionSencilla.Entidades.csprojAssemblyReference.cache
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Entidades\obj\Debug\AplicacionSencilla.Entidades.csproj.CoreCompileInputs.cache
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Entidades\obj\Debug\AplicacionSencilla.Entidades.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencilla.Entidades\obj\Debug\AplicacionSencilla.Entidades.pdb

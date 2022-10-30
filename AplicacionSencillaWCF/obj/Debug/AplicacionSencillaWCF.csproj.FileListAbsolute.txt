@@ -1,0 +1,132 @@
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencillaWCF.dll.config
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencillaWCF.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencillaWCF.pdb
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csc.exe
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csc.exe.config
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csc.rsp
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csi.exe
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csi.exe.config
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csi.rsp
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.AppContext.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Console.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.IO.Compression.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Claims.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.ValueTuple.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\vbc.exe
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\vbc.exe.config
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\vbc.rsp
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\VBCSCompiler.exe
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Entidades.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.HerramientasComunes.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Negocio.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Datos.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\Dapper.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Entidades.pdb
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.HerramientasComunes.pdb
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Negocio.pdb
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Datos.pdb
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\bin\Dapper.xml
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\obj\Debug\AplicacionSencillaWCF.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\obj\Debug\AplicacionSencillaWCF.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\obj\Debug\AplicacionSencillaWCF.csproj.CopyComplete
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\obj\Debug\AplicacionSencillaWCF.dll
+C:\Users\migue\source\repos\ServicioAplicacionSencilla\AplicacionSencillaWCF\obj\Debug\AplicacionSencillaWCF.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencillaWCF.dll.config
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencillaWCF.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencillaWCF.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csc.exe
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csc.exe.config
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csc.rsp
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csi.exe
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csi.exe.config
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\csi.rsp
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.AppContext.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Collections.Immutable.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Console.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.IO.Compression.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.IO.FileSystem.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.IO.Pipes.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.AccessControl.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Claims.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.ValueTuple.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Xml.XPath.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\vbc.exe
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\vbc.exe.config
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\vbc.rsp
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\VBCSCompiler.exe
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\roslyn\VBCSCompiler.exe.config
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Entidades.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.HerramientasComunes.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Negocio.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Datos.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\Dapper.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Entidades.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.HerramientasComunes.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Negocio.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\AplicacionSencilla.Datos.pdb
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\bin\Dapper.xml
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\obj\Debug\AplicacionSencillaWCF.csprojAssemblyReference.cache
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\obj\Debug\AplicacionSencillaWCF.csproj.CoreCompileInputs.cache
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\obj\Debug\AplicacionSencillaWCF.csproj.CopyComplete
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\obj\Debug\AplicacionSencillaWCF.dll
+E:\Documentos\Mis trabajos\mios\SolucionAplicacionSencilla\AplicacionSencillaWCF\obj\Debug\AplicacionSencillaWCF.pdb

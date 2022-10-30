@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:51192/AplicacionSencillaServicio.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF.Usuarios" />
+  <xs:import schemaLocation="http://localhost:51192/AplicacionSencillaServicio.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF" />
+  <xs:element name="ObtenerUusuarios">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerUusuariosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF.Usuarios" minOccurs="0" name="ObtenerUusuariosResult" nillable="true" type="q1:DTOUusarioRespuesta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="BorrarUusuarios">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF.Usuarios" minOccurs="0" name="usuario" nillable="true" type="q2:DTOUsuarioSolicitud" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="BorrarUusuariosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF" minOccurs="0" name="BorrarUusuariosResult" nillable="true" type="q3:DTOResultado" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AgregarUusuarios">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF.Usuarios" minOccurs="0" name="usuario" nillable="true" type="q4:DTOUsuarioCuerpo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AgregarUusuariosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF" minOccurs="0" name="AgregarUusuariosResult" nillable="true" type="q5:DTOResultado" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Login">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF.Usuarios" minOccurs="0" name="usuario" nillable="true" type="q6:DTOUsuarioCuerpo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LoginResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF" minOccurs="0" name="LoginResult" nillable="true" type="q7:DTOResultado" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

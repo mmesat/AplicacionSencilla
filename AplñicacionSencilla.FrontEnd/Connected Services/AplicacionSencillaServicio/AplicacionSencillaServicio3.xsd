@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF.Usuarios" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF.Usuarios" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:51192/AplicacionSencillaServicio.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF" />
+  <xs:complexType name="DTOUusarioRespuesta">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cuerpo" nillable="true" type="tns:ArrayOfDTOUsuarioCuerpo" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF" minOccurs="0" name="Resultado" nillable="true" type="q1:DTOResultado" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DTOUusarioRespuesta" nillable="true" type="tns:DTOUusarioRespuesta" />
+  <xs:complexType name="ArrayOfDTOUsuarioCuerpo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DTOUsuarioCuerpo" nillable="true" type="tns:DTOUsuarioCuerpo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDTOUsuarioCuerpo" nillable="true" type="tns:ArrayOfDTOUsuarioCuerpo" />
+  <xs:complexType name="DTOUsuarioCuerpo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Apellido" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Direccion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Login" nillable="true" type="tns:DTOLoginCuerpo" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NumeroIdentificacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Telefono" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoIdentificacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Usuario" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DTOUsuarioCuerpo" nillable="true" type="tns:DTOUsuarioCuerpo" />
+  <xs:complexType name="DTOLoginCuerpo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Pass" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Usuario" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DTOLoginCuerpo" nillable="true" type="tns:DTOLoginCuerpo" />
+  <xs:complexType name="DTOUsuarioSolicitud">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DTOUsuarioSolicitud" nillable="true" type="tns:DTOUsuarioSolicitud" />
+</xs:schema>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades.WCF" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:51192/AplicacionSencillaServicio.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades" />
+  <xs:complexType name="DTOResultado">
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/AplicacionSencilla.Entidades" minOccurs="0" name="Codigo" type="q1:Enums.CodigoRespuesta" />
+      <xs:element minOccurs="0" name="ErrorDePila" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Mensaje" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DTOResultado" nillable="true" type="tns:DTOResultado" />
+</xs:schema>
